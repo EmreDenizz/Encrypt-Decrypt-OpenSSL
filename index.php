@@ -5,7 +5,7 @@ $output_string = false;
 // Set action value 
 $action = "Encrypt";
 
-// Set string value
+// Set input string value
 $input_string = "test_string";
 
 // Encryption method
