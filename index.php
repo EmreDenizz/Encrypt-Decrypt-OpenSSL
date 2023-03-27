@@ -1,4 +1,7 @@
 <?php
+/**
+ * @author Emre Deniz <https://github.com/EmreDenizz>
+*/
 
 $output_string = false;
 
